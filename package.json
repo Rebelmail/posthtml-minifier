@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Rebelmail/posthtml-minifier#readme",
   "dependencies": {
+    "debug": "^2.2.0",
     "html-minifier": "^1.1.1",
     "posthtml-parser": "^0.1.1",
     "posthtml-render": "^1.0.5"
