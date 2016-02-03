@@ -1,0 +1,35 @@
+{
+  "name": "posthtml-minifier",
+  "version": "0.1.0",
+  "description": "PostHTML plugin that wraps HTML Minifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul test _mocha -- --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Rebelmail/posthtml-minifier.git"
+  },
+  "keywords": [
+    "posthtml",
+    "html",
+    "minifier"
+  ],
+  "author": "Rebelmail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rebelmail/posthtml-minifier/issues"
+  },
+  "homepage": "https://github.com/Rebelmail/posthtml-minifier#readme",
+  "dependencies": {
+    "html-minifier": "^1.1.1",
+    "posthtml-parser": "^0.1.1",
+    "posthtml-render": "^1.0.5"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.2",
+    "mocha": "^2.4.5",
+    "posthtml": "^0.8.1"
+  }
+}
