@@ -1,7 +1,7 @@
 {
   "name": "posthtml-minifier",
   "version": "0.1.0",
-  "description": "PostHTML plugin that wraps HTML Minifier",
+  "description": "PostHTML plugin that wraps HTMLMinifier",
   "main": "index.js",
   "scripts": {
     "test": "istanbul test _mocha -- --recursive"
