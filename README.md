@@ -1,5 +1,8 @@
 # posthtml-minifier
 
+[![Build Status](https://travis-ci.org/Rebelmail/posthtml-minifier.svg?branch=master)](https://travis-ci.org/Rebelmail/posthtml-minifier)
+[![Coverage Status](https://coveralls.io/repos/github/Rebelmail/posthtml-minifier/badge.svg?branch=master)](https://coveralls.io/github/Rebelmail/posthtml-minifier?branch=master)
+
 [PostHTML][1] plugin that wraps [HTMLMinifier][2].
 
 ## Usage
